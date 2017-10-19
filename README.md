@@ -1,1 +1,1 @@
-# LinkingPairingDemoForAndroid
+# LinkingPairingDemo
